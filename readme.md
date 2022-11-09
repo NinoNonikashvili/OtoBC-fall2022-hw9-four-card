@@ -14,8 +14,6 @@
 ### Screenshot
 
 <div width="100%">
-
-
       <img
         src="https://user-images.githubusercontent.com/61002720/200723136-bb3cfd3d-f740-45c9-a08e-51f422646608.png"
         width="30%"
